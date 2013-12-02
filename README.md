@@ -1,4 +1,4 @@
-angularjs-starter-guidebook
-===========================
+AngularJS Starter (Guidebook App)
+=================================
 
-This is Guidebook application used in AngulasrJS starter book.
+This is a Guidebook application used in Instant AngulasrJS Starter eBook.
